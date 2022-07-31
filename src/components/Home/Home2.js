@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Type from "./Type";
-import myself from "../../Assets/myself.svg";
+import myself from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -22,9 +22,14 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Frontend Developer with 1+ years of professional experiences in
-              Web Designing and User Interface Development.😉
+              Web Designing and User Interface Development.
               <br />
-              <br />I am fluent in classics like
+              <br />
+              My field of Interest's are building new{" "}
+              <b className="purple">Web Technologies</b> and Products
+              <br />
+              <br />
+              am fluent in classics like
               <i>
                 <b className="purple"> Javascript, Node js and React. </b>
               </i>

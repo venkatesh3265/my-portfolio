@@ -9,11 +9,12 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="yellow">Venkatesh </span>
-            from <span className="purple"> chennai,TamilNadu.</span>
-            <br />I am completed my B.sc Information Technology in Guru Nanak
+            from <span className="purple"> India</span>
+            <br />
+            I'am completed my B.sc Information Technology in Guru Nanak
             College,chennai. Now currently Working as a
-            <b className="purple"> Junior Software Engineer</b> in CaddyCode
-            Solutions Pvt.Ltd
+            <b className="purple"> FrontEnd Developer</b> in CaddyCode Solutions
+            Pvt.Ltd
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -23,10 +24,10 @@ function AboutCard() {
               <ImPointRight /> Gaming
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening Music
+              <ImPointRight /> Love Cinema
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cricket
+              <ImPointRight /> Music
             </li>
           </ul>
         </blockquote>
